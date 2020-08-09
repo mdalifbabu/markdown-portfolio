@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Rashmika Mandanna](https://cinechitchat.com/wp-content/uploads/2019/07/Rashmika-Mandanna.gif)
